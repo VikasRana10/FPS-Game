@@ -27,7 +27,7 @@ Follow these easy steps to get started with our 3D game map:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/your-repository.git
+   git clone https://github.com/VikasRana10/FPS-Game.git
    ```
 
 2. Install Ursina 3D engine if you haven't already:
