@@ -42,6 +42,12 @@ Follow these easy steps to get started with our 3D game map:
 
 4. Explore, customize, and have fun!
 
+## Screenshots
+
+![Capture2](https://github.com/VikasRana10/FPS-Game/assets/90509555/5a02c83c-4521-4a39-b1dd-482d156ad4c2)
+
+![Capture](https://github.com/VikasRana10/FPS-Game/assets/90509555/156df5d8-4998-4fbd-8d3c-70338541ce00)
+
 ## Customization
 Feel free to modify and extend the game map to suit your own creative ideas. Customize the visuals, add new elements, or even integrate your own gameplay features.
 
@@ -60,4 +66,3 @@ This project is licensed under the [MIT License](LICENSE.md). Feel free to use a
 Get ready for an incredible 3D gaming experience! 🎮✨
 ```
 
-Feel free to replace `"yourusername"` and `"your-repository"` with the appropriate GitHub username and repository name when you use this template for your actual GitHub repository.
